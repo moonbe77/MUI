@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.navBar {
+  border: 1px solid red;
+  border-radius: 8px;
+}
+
+.navBar ul {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  list-style: none;
+  gap: 15px;
+}
