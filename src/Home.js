@@ -16,8 +16,8 @@ const Home = () => {
   const classes = useStyles();
 
   return (
-    <Box>
-      <Container maxWidth="md" className={`${classes.root}`}>
+    <Box m={5}>
+      <Container className={`${classes.root}`}>
         <h1>HOME</h1>
       </Container>
     </Box>
